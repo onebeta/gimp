@@ -1,6 +1,6 @@
 # gimp
  Curso de Gimp
 
- Teste de alteração no GitHub remoto.
- Teste 02.
+ Teste de alteração dos códigos-fontes do arquivo readme.
+ Tentativa n. Será que agora vai!
 
